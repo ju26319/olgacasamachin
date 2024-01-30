@@ -2,4 +2,4 @@ Options +FollowSymLinks
 RewriteEngine on
 
 #RewriteCond %{HTTP_HOST} ^olgacasamachin.com
-#RewriteRule (.*) https://olgacasamachin.com/$1 [R=301,L]
+#RewriteRule (.*) http://olgacasamachin.com/$1 [R=301,L]
